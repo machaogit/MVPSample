@@ -42,7 +42,7 @@ public class Repos {
         return this.owner;
     }
 
-    public class Owner {
+    public static class Owner {
         private String login;
 
         private int id;
